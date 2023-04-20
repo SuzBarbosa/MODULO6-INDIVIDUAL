@@ -36,16 +36,6 @@ implementar uma dessas entidades.</h4>
 
 <h2>🗺️Mapeamento das Entidades</h2>
 
-<h3>Cliente ↧</h3>
-
-```
-ID (CHAVE PRIMÁRIA)
-Nome
-Email
-CPF
-Endereço
-```
-
 <h3>Material ↧</h3>
 
 ```
