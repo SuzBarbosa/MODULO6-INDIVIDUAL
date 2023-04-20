@@ -44,7 +44,7 @@ Tipo
 Peso
 Quantidade
 Tamanho
-
+```
 
 <h2>🚀Frameworks utilizados no projeto:</h2><br>
 
@@ -66,11 +66,6 @@ Tamanho
  
 >`npm run dev`
 
-<br>
- 
-## Para acessar a hospedagem de API você pode usar o seguinte link:
- https://server-smartcash-1.onrender.com/{rota}
- 
 
 
 
