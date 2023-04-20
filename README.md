@@ -71,8 +71,9 @@ Tamanho
 ## Para acessar a hospedagem de API você pode usar o seguinte link:
  https://server-smartcash-1.onrender.com/{rota}
  
- ## 🧑💻 EQUIPE
----
+
+
+
 ⌨️ com 💖 por Suzana Barbosa 😊
             
 
