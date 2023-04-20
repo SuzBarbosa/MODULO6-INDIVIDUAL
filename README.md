@@ -73,14 +73,8 @@ Tamanho
  
  ## 🧑💻 EQUIPE
 ---
-⌨️ com 💖 por:<br>
-               Eliseu Machado 😊
-               <br>  Karolayne Rodrigues  😊
-               <br> Pedro Nicacio 😊
-               <br>  Suzana Barbosa 😊
-               <br> Thiago Oliveira 😊   
-               <br> Thiago Oliveira 😊 
-             
+⌨️ com 💖 por Suzana Barbosa 😊
+            
 
 
 
