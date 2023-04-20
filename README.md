@@ -46,37 +46,6 @@ CPF
 Endereço
 ```
 
-<h3>Funcionários</h3>
-
-```
-ID (CHAVE PRIMÁRIA)
-Nome
-CPF
-Cargo
-Salario
-```
-
-<h3>Coletador ↧</h3>
-
-```
-id (Chave Primária)
-Nome
-Email
-Cpf
-Data_de_nascimento
-```
-
-<h3>Pontos de Coleta ↧</h3>
-
-```
-Id (Chave Prímaria)
-Empresa
-horario
-lugar
-Dia
-
-```
-
 <h3>Material ↧</h3>
 
 ```
@@ -85,18 +54,6 @@ Tipo
 Peso
 Quantidade
 Tamanho
-
-```
-<h3>Produto ↧ </h3>
-
-```
-Id (Chave Prímaria)
-Nome
-Descrição
-Data de fabricação
- 
-
-```
 
 
 <h2>🚀Frameworks utilizados no projeto:</h2><br>
